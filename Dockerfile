@@ -1,2 +1,2 @@
-FROM https://github.com/Aman7020658038/ubuntu
+FROM https://github.com/amanpn/ubuntu
 RUN apt-get install node -y
